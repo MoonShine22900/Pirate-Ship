@@ -1,7 +1,8 @@
 import subprocess
-
+# Sorry if the comments are in English, it's just that I speak that language and for development it is not convenient for me to put the comments in English
+#SOURCE CODE TO COMPILE: If you don't feel confident with my build or you just created something custom or just got bored, compile it
 print("Welcome to The Pirate Ship")
-print("Drag the file you are going to work with (the file only works with certain commands like 'xattr -cr').")
+print("Drag the file you are going to work with (the file only works with certain commands like 'xattr -cr'). and if u dont need file just click enter or type anything you want")
 your_file = input("Your file: ").strip().strip("'")
 
 print("Your file is: " + your_file + ". If this is NOT your file, please restart the program.")
@@ -60,7 +61,7 @@ while not bucle:
         print("- Install Homebrew")
         print("- Disable App Store Updates")
         print("- Restart Software Update Service")
-        print("For example, for run a comand, like isable MacOS Updates, type 'Disable_MacOS_Updates' because my code not support spaces.")
+        print("TO RUN A COMMAND JUST COPY AND PASTE")
     
     elif action == "Disable Gatekeeper Program Verification":
         disable_gatekeeper_program_verification()
