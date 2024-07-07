@@ -25,12 +25,6 @@ def open_damaged_programs(file):
     except subprocess.CalledProcessError as e:
         print(f"Error running 'xattr -cr {file}': {e}")def open_damaged_programs(file):
 
-
-
-#other user
-
-
-
 def open_damaged_programs(file):
     try:
         subprocess.run(["xattr", "-cr", file])
@@ -65,5 +59,22 @@ def open_damaged_programs(file):
         print(f"Error running 'xattr -cr {file}': {e}")
 
 #THE CHANGUES ARE BLAH BLAH BLAH
+
+
+
+
+
+#other user
+
+
+code
+
+
+
+#other user
+
+
+
+code
 
 
