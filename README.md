@@ -6,7 +6,7 @@ The project does not support piracy, but these commands are useful for third-par
 The program is still in development, remember, piracy is illegal. don't do it 😉.
 
 # Help
-Do you want to collaborate in the development? PERFECT, just edit the MODIFICATIONS script, put your name, in the case of small changes just put what was changed, and what line of code it goes on (it can be several elements), or in the case of A TOTAL CHANGE WRITES all the code, to simplify my life.
+Do you want to collaborate in the development? PERFECT, just edit the MODIFICATIONS script.
 
 # Open Source And GPL
 This program is open source and licensed under GPL-3. You are welcome to modify, study, and distribute it. However, please remember that according to the GPL-3 license, if you distribute any modified versions, they must also be licensed under GPL-3
