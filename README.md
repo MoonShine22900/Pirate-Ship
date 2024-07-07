@@ -2,6 +2,10 @@
 "Pirate Ship" is a program for MacOS in development made in python that allows you to execute terminal commands commonly used in software cracking.
 The project does not support piracy, but these commands are useful for third-party applications and more.
 
+# Discord Server 
+
+https://discord.gg/pnYyccPbHB
+
 # Developing
 The program is still in development, remember, piracy is illegal. don't do it 😉.
 
